@@ -18,7 +18,6 @@ y = pd.read_csv("targetcsvdlandnn.csv")
 
 
 
-#xxyy=pd.read_csv("HEHE.csv")
 
 
 classes = np.unique(y)
